@@ -6,6 +6,6 @@ Then you can play it.
 
 ## Commands
 
-/trigger event set 1:Open this file.
+/trigger _event set 1:Open this file.
 
-/trigger event set 11:Go to first level.
+/trigger _event set 11:Go to first level.
