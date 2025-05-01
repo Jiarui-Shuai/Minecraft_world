@@ -11,7 +11,7 @@ Then you can play it.
 
 /trigger _event set 11:Go to first level.
 
-# Chinese
+# 中文
 
 ## 你好！
 **此文件将让您知道如何玩这个世界。**
