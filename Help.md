@@ -6,4 +6,4 @@ Then you can play it.
 
 ## Commands
 
-/trigger w
+/trigger event set 1:Open the file
