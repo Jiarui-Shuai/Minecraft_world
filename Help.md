@@ -13,7 +13,7 @@ Then you can play it.
 
 # Chinese
 
-##你好！
+## 你好！
 **此文件将让您知道如何玩这个世界。**
 
 你需要 Minecraft Java 版 25w15a 来打开世界， 然后你就可以玩了。
