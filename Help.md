@@ -21,4 +21,4 @@ Then you can play it.
 ### 命令
 /trigger _event set 1：打开此文件。
 
-/trigger _event set 11：Go to first level。
+/trigger _event set 11：回到第一关。
