@@ -11,6 +11,8 @@ Then you can play it.
 
 /trigger _event set 11:Go to first level.
 
+/trigger _event set 12:Go to second level.
+
 # 中文
 
 ## 你好！
@@ -22,3 +24,5 @@ Then you can play it.
 /trigger _event set 1：打开此文件。
 
 /trigger _event set 11：回到第一关。
+
+/trigger _event set 12：进入第二关
